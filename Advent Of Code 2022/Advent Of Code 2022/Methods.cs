@@ -8,6 +8,8 @@ namespace Advent_Of_Code_2022.Days
 {
     public class Methods
     {
+
+        public string path = "../../../Input/";
         public void DayLine(int pDayNb)
         {
             int color = 0;
